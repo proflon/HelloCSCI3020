@@ -12,7 +12,7 @@ public class Simple
 	@Override
 	public String toString()
 	{
-		return "Simple [data=" + data + "]";
+		return "ple [data=" + data + "]";
 	}
 	
 }
