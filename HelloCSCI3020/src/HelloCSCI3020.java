@@ -8,6 +8,8 @@ public class HelloCSCI3020
 //		This is a new line
 //		Class is fun
 //		This change was in old version
+//		A line from new version
+
 		System.out.println("Hello CSCI 3020!");
 		Simple msg = new Simple("Goodbye");
 		System.out.println(msg);
