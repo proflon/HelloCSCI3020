@@ -12,7 +12,7 @@ public class Simple
 	@Override
 	public String toString()
 	{
-		return "ple [data=" + data + "]";
+		return data + " CSCI 3020";
 	}
 	
 }
